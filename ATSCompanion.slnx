@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ATSCompanion.BoardPack/ATSCompanion.BoardPack.csproj" />
+    <Project Path="src/ATSCompanion.McpIntegration/ATSCompanion.McpIntegration.csproj" />
+    <Project Path="src/ATSCompanion.Orchestration/ATSCompanion.Orchestration.csproj" />
+    <Project Path="src/ATSCompanion.Web/ATSCompanion.Web.csproj" />
+  </Folder>
+</Solution>
